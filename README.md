@@ -1,4 +1,8 @@
 # bspwm
+Basically my current theme is from https://github.com/sorahed/bspwmthemes
+I just added my own modules and changed someshortcuts
+
+
 My bspwm settings
 
 Im using
