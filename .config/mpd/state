@@ -1,0 +1,111 @@
+sw_volume: 27
+audio_device_state:1:pulse
+audio_device_state:1:Visualizer feed
+state: pause
+current: 95
+time: 32.198000
+random: 0
+repeat: 1
+single: 0
+consume: 0
+crossfade: 5
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:random/Cryhavoc - Repent Whore.mp3
+1:Slipknot/Recordings Circa 1997/Late '97/Digitally Restored Versions/Gently.flac
+2:random/Jare  VilleGalle - Hiss ft Mrk-Simo HD + lyrics.mp3
+3:random/Jari ei oo homo.mp3
+4:metallica/Korn feat Metallica - Fade to black.mp3
+5:Slipknot/Recordings Circa 1997/Late '97/Digitally Restored Versions/Me Inside.flac
+6:metallica/Metallica - Garage Inc [1998]/Disc 2/Metallica - 01 -  Helpless.mp3
+7:metallica/Metallica - Load [1996]/Metallica - 01 - Ain't My Bitch.mp3
+8:metallica/Metallica - Metallica [1991]/Metallica - 01 - Enter Sandman.mp3
+9:metallica/Metallica - Ride The Lightning [1984]/Metallica - 01 - Fight Fire With Fire.mp3
+10:metallica/Metallica - St. Anger/Metallica - 01 - Frantic.mp3
+11:metallica/Metallica - ReLoad [1997]/Metallica - 01 - Fuel.mp3
+12:metallica/Metallica - S & M [1999]/Disc 1/Metallica - 01 - The Ecstasy Of Gold.mp3
+13:metallica/Metallica - Load [1996]/Metallica - 02 - 2x4.mp3
+14:metallica/Metallica - Ride The Lightning [1984]/Metallica - 02 - Ride The Lightning.mp3
+15:metallica/Metallica - Metallica [1991]/Metallica - 02 - Sad But True.mp3
+16:metallica/Metallica - St. Anger/Metallica - 02 - St. Anger.mp3
+17:metallica/Metallica - S & M [1999]/Disc 1/Metallica - 02 - The Call Of The Ktulu.mp3
+18:metallica/Metallica - ReLoad [1997]/Metallica - 02 - The Memory Remains.mp3
+19:metallica/Metallica - S & M [1999]/Disc 2/Metallica - 02 - Until It Sleeps.mp3
+20:metallica/Metallica - ReLoad [1997]/Metallica - 03 - Devil's Dance.mp3
+21:metallica/Metallica - Ride The Lightning [1984]/Metallica - 03 - For Whom The Bell Tolls.mp3
+22:metallica/Metallica - S & M [1999]/Disc 2/Metallica - 03 - For Whom The Bell Tolls.mp3
+23:metallica/Metallica - Metallica [1991]/Metallica - 03 - Holier Than Thou.mp3
+24:metallica/Metallica - S & M [1999]/Disc 1/Metallica - 03 - Master Of Puppets.mp3
+25:metallica/Metallica - St. Anger/Metallica - 03 - Some Kind of Monster.mp3
+26:metallica/Metallica - Load [1996]/Metallica - 03 - The House Jack Built.mp3
+27:metallica/Metallica - Garage Inc [1998]/Disc 2/Metallica - 03 - The Wait.mp3
+28:metallica/Metallica - St. Anger/Metallica - 04 - Dirty Window.mp3
+29:metallica/Metallica - Ride The Lightning [1984]/Metallica - 04 - Fade To Black.mp3
+30:metallica/Metallica - S & M [1999]/Disc 2/Metallica - 04 - Minus Human.mp3
+31:metallica/Metallica - S & M [1999]/Disc 1/Metallica - 04 - Of Wolf And Man.mp3
+32:metallica/Metallica - ReLoad [1997]/Metallica - 04 - The Unforgiven II.mp3
+33:metallica/Metallica - Metallica [1991]/Metallica - 04 - The Unforgiven.mp3
+34:metallica/Metallica - Load [1996]/Metallica - 04 - Until It Sleeps.mp3
+35:metallica/Metallica - ReLoad [1997]/Metallica - 05 - Better Than You.mp3
+36:metallica/Metallica - St. Anger/Metallica - 05 - Invisible Kid.mp3
+37:metallica/Metallica - Load [1996]/Metallica - 05 - King Nothing.mp3
+38:metallica/Metallica - S & M [1999]/Disc 1/Metallica - 05 - The Thing That Should Not Be.mp3
+39:metallica/Metallica - Ride The Lightning [1984]/Metallica - 05 - Trapped Under Ice.mp3
+40:metallica/Metallica - Metallica [1991]/Metallica - 05 - Wherever I May Roam.mp3
+41:metallica/Metallica - S & M [1999]/Disc 2/Metallica - 05 - Wherever I May Roam.mp3
+42:metallica/Metallica - Metallica [1991]/Metallica - 06 - Don't Tread On Me.mp3
+43:metallica/Metallica - Ride The Lightning [1984]/Metallica - 06 - Escape.mp3
+44:metallica/Metallica - S & M [1999]/Disc 1/Metallica - 06 - Fuel.mp3
+45:metallica/Metallica - Load [1996]/Metallica - 06 - Hero Of The Day.mp3
+46:metallica/Metallica - St. Anger/Metallica - 06 - My World.mp3
+47:metallica/Metallica - S & M [1999]/Disc 2/Metallica - 06 - Outlaw Torn.mp3
+48:metallica/Metallica - ReLoad [1997]/Metallica - 06 - Slither.mp3
+49:metallica/Metallica - Load [1996]/Metallica - 07 - Bleeding Me.mp3
+50:metallica/Metallica - ReLoad [1997]/Metallica - 07 - Carpe Diem Baby.mp3
+51:metallica/Metallica - Ride The Lightning [1984]/Metallica - 07 - Creeping Death.mp3
+52:metallica/Metallica - S & M [1999]/Disc 2/Metallica - 07 - Sad But True.mp3
+53:metallica/Metallica - St. Anger/Metallica - 07 - Shoot Me Again.mp3
+54:metallica/Metallica - S & M [1999]/Disc 1/Metallica - 07 - The Memory Remains.mp3
+55:metallica/Metallica - Metallica [1991]/Metallica - 07 - Through The Never.mp3
+56:metallica/Metallica - ReLoad [1997]/Metallica - 08 - Bad Seed.mp3
+57:metallica/Metallica - Garage Inc [1998]/Disc 2/Metallica - 08 - Breadfan.mp3
+58:metallica/Metallica - Load [1996]/Metallica - 08 - Cure.mp3
+59:metallica/Metallica - S & M [1999]/Disc 1/Metallica - 08 - No Leaf Clover.mp3
+60:metallica/Metallica - Metallica [1991]/Metallica - 08 - Nothing Else Matters.mp3
+61:metallica/Metallica - S & M [1999]/Disc 2/Metallica - 08 - One.mp3
+62:metallica/Metallica - St. Anger/Metallica - 08 - Sweet Amber.mp3
+63:metallica/Metallica - Ride The Lightning [1984]/Metallica - 08 - The Call Of Ktulu.mp3
+64:metallica/Metallica - S & M [1999]/Disc 1/Metallica - 09 - Hero Of The Day.mp3
+65:metallica/Metallica - Metallica [1991]/Metallica - 09 - Of Wolf And Man.mp3
+66:metallica/Metallica - Load [1996]/Metallica - 09 - Poor Twisted Me.mp3
+67:metallica/Metallica - Garage Inc [1998]/Disc 2/Metallica - 09 - The Prince.mp3
+68:metallica/Metallica - St. Anger/Metallica - 09 - The Unnamed Feeling.mp3
+69:metallica/Metallica - ReLoad [1997]/Metallica - 09 - Where The Wild Things Are.mp3
+70:metallica/Metallica - S & M [1999]/Disc 2/Metallica - 10 - Battery.mp3
+71:metallica/Metallica - S & M [1999]/Disc 1/Metallica - 10 - Devil's Dance.mp3
+72:metallica/Metallica - ReLoad [1997]/Metallica - 10 - Prince Charming.mp3
+73:metallica/Metallica - St. Anger/Metallica - 10 - Purify.mp3
+74:metallica/Metallica - Metallica [1991]/Metallica - 10 - The God That Failed.mp3
+75:metallica/Metallica - Load [1996]/Metallica - 10 - Wasting My Hate.mp3
+76:metallica/Metallica - St. Anger/Metallica - 11 - All Within My Hands.mp3
+77:metallica/Metallica - S & M [1999]/Disc 1/Metallica - 11 - Bleeding Me.mp3
+78:metallica/Metallica - ReLoad [1997]/Metallica - 11 - Low Man's Lyric.mp3
+79:metallica/Metallica - Load [1996]/Metallica - 11 - Mama Said.mp3
+80:metallica/Metallica - Metallica [1991]/Metallica - 11 - My Friend Of Misery.mp3
+81:metallica/Metallica - Garage Inc [1998]/Disc 2/Metallica - 11 - So What.mp3
+82:metallica/Metallica - ReLoad [1997]/Metallica - 12 - Attitude.mp3
+83:metallica/Metallica - Metallica [1991]/Metallica - 12 - The Struggle Within.mp3
+84:metallica/Metallica - Load [1996]/Metallica - 12 - Thorn Within.mp3
+85:metallica/Metallica - ReLoad [1997]/Metallica - 13 - Fixxxer.mp3
+86:metallica/Metallica - Load [1996]/Metallica - 13 - Ronnie.mp3
+87:metallica/Metallica - Load [1996]/Metallica - 14 - The Outlaw Torn.mp3
+88:metallica/Metallica - Mission Impossible Theme (Heavy Metal Remix).MP3
+89:metallica/Metallica - heavy instumental (very rare,never released).mp3
+90:Slipknot/Recordings Circa 1997/Late '97/Digitally Restored Versions/Only One.flac
+91:random/Poju - Poika saunoo.mp3
+92:Slipknot/Recordings Circa 1997/Late '97/Digitally Restored Versions/Prosthetics.flac
+93:random/RMB - Spring.mp3
+94:random/jareVilleGalle ft Heikki Kuula - Nelisilm.mp3
+95:Suomihiphoppia Vol 3/20-a-ruhm-bonus_leegion-ser.mp3
+playlist_end

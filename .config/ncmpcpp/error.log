@@ -1,0 +1,1 @@
+TagLib: String::copyFromUTF16() - Invalid UTF16 string. BOM is broken.

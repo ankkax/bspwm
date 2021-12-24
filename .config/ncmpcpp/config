@@ -1,0 +1,23 @@
+
+mpd_host = "localhost"
+
+mpd_port = "6600"
+
+mpd_music_dir = "/media/bigone/Audio/Music"
+
+# colors
+colors_enabled = "yes"
+discard_colors_if_item_is_selected = "yes"
+header_window_color = "white"
+volume_color = "blue"
+progressbar_color = "blue"
+statusbar_color = "blue"
+main_window_color = "cyan"
+color1 = "blue"
+color2 = "white"
+empty_tag_color = "white"
+#active_column_color = "black"
+#active_window_border = "white"
+
+# execute_on_song_change = "~/test/music"
+

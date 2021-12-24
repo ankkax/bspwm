@@ -26,6 +26,7 @@ Optional depencies
 	flameshot
 	mpv-mpris
 	sxiv
+	cava
 
 Guide to use wallpaper with SXIV changer thanks for Luke Smith for awesome setbg script
 open image with sxiv, press ctrl + x then press w to setbg
