@@ -4,7 +4,7 @@ I just added my own modules and changed someshortcuts
 
 
 My bspwm settings
-
+![Horizon](/desktop/currentsetup.png)
 Im using
 	Arch Linux
 	Pipewire
