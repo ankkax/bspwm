@@ -1,7 +1,0 @@
-#!/bin/bash
-
-# volume control script requires volnotification script if you want notifications for you volume change and pamixer for volume control
-
-pamixer -d 5
-~/.config/bspwm/utilities/volnotify
-#$(volnotify)
