@@ -49,3 +49,6 @@ Guide to setup fonts
 Copy fonts from my repository to $HOME/.fonts/
 and fc-cache --force to apply those fonts
 
+Setting neofetch with image
+make alias in zshrc or bashrc
+alias neofetch="neofetch --kitty /path/to/your/image.jpg

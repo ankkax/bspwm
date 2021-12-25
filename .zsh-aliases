@@ -1,0 +1,22 @@
+alias mpv="mpv --no-border"
+alias mkdir="mkdir -p"
+alias eyes="mpv ~/Videos/eye-exercises.m4v" 
+alias music="ncmpcpp"
+alias ls='ls --color=auto'
+#alias reboot='loginctl reboot'
+#alias poweroff="loginctl poweroff"
+alias svim='sudo -e'
+alias sc='lutris lutris:rungameid/1 &'
+alias cp='cp -iv'
+alias mv='mv -iv'
+alias rm='rm -v'
+alias p='sudo pacman'
+alias myip="curl -s https://ipinfo.io/{country,city,ip} |awk -F '\\126' '{print $1""}'"
+alias yta="yt-dlp -ict --add-metadata --yes-playlist --extract-audio --audio-format mp3"
+alias yts="yt-dlp  -i --extract-audio --audio-format mp3 --audio-quality 0 --add-metadata -o \"%(title)s.%(ext)s\""
+alias vim="nvim"
+alias neofetch="neofetch --kitty /media/bigone/Pictures/neofetch.jpg"
+alias odsync="onedrive --synchronize"
+alias gdm="sudo sv restart gdm"
+alias visualizer="cava"
+alias tclock="tock -cmC 4"
