@@ -14,13 +14,15 @@ b
 xrandr --output DisplayPort-0 --mode 2560x1440 --rate 165
 bspc monitor -d I II III IV V VI
 
-#feh --bg-fill $HOME/Pictures/wallpaper/girlwithcup.jpg
 ~/.config/polybar/launch.sh
 
-bspc config border_width         0
-bspc config window_gap           10
-bspc config top_padding 	 60
-bspc config bottom_padding	 30
+bspc config border_width        0
+bspc config border_radius	20
+bspc config window_gap          10
+bspc config top_padding 	60
+bspc config right_padding	25
+bspc config left_padding	10
+bspc config side_padding	10
 bspc config split_ratio          0.0
 bspc config borderless_monocle   true
 bspc config gapless_monocle      true
@@ -36,7 +38,7 @@ bspc rule -a mpv state=floating
 xsetroot -cursor_name left_ptr &
 #xautolock -detectsleep -time 10 -locker "/home/fhilipe/.config/polybar/scripts/lock.sh" -notify 30 -notifier "notify-send -u critical -t 10000 -- 'LOCKING screen in 30 seconds'" &
 /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
-picom &
+#picom &
 setxkbmap fi &
 flameshot &
 #numlockx on &

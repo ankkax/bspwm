@@ -6,6 +6,7 @@ alt + enter for terminal
 
 My bspwm settings
 ![Horizon](/desktop/currentsetup.png)
+![Horizon](/desktop/currentsetup2.png)
 Im using
 	Arch Linux
 
