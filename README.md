@@ -1,15 +1,13 @@
 # bspwm
 Basically my current theme is from https://github.com/sorahed/bspwmthemes
-I just added my own modules and changed someshortcuts
+I just added my own modules and changed some shortcuts
+alt + enter for terminal
 
 
 My bspwm settings
 ![Horizon](/desktop/currentsetup.png)
 Im using
 	Arch Linux
-	Pipewire
-	Firefox
-	Spotify
 
 # Depencies
 + [bspwm](https://github.com/baskerville/bspwm)
@@ -34,9 +32,9 @@ Optional depencies
 + [cava-visualizer](https://github.com/karlstav/cava)
 + [neofetch](https://github.com/dylanaraps/neofetch)
 + [volnoti](https://github.com/davidbrazdil/volnoti)
+I recommend using volnoti from AUR it is hard to build on other systems but it is possible
 + [Tock-clock](https://github.com/nwtnni/tock)
 + [setbg-from-lukesmith](https://github.com/LukeSmithxyz/voidrice/tree/master/.local/bin)
-I recommend using volnoti from AUR it is hard to build on other systems but it is possible
 
 Guide to use wallpaper with SXIV changer thanks for Luke Smith for awesome setbg script
 open image with sxiv, press ctrl + x then press w to setbg
