@@ -11,7 +11,8 @@ Im using
 	Arch Linux
 
 # Depencies
-+ [bspwm-rounded-corners](https://github.com/j-james/bspwm-rounded-corners) from Aur [bspwm-rounded-cornersbspwm-rounded-corners](https://aur.archlinux.org/packages/bspwm-rounded-corners/)
++ [bspwm-rounded-corners](https://github.com/j-james/bspwm-rounded-corners) 
++ [from AURbspwm-rounded-cornersbspwm-rounded-corners](https://aur.archlinux.org/packages/bspwm-rounded-corners/)
 + [polybar](https://github.com/polybar/polybar)
 + [kitty](https://github.com/kovidgoyal/kitty)
 + [dunst](https://github.com/dunst-project/dunst)
