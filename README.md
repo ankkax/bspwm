@@ -37,7 +37,7 @@ Optional depencies
 I recommend using volnoti from AUR it is hard to build on other systems but it is possible
 + [Tock-clock](https://github.com/nwtnni/tock)
 + [setbg-from-lukesmith](https://github.com/LukeSmithxyz/voidrice/tree/master/.local/bin)
-
++ [sox](https://github.com/chirlu/sox) play sound in dunst notification
 Guide to use wallpaper with SXIV changer thanks for Luke Smith for awesome setbg script
 open image with sxiv, press ctrl + x then press w to setbg
 
