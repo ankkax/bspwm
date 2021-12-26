@@ -27,7 +27,7 @@ alt + shift + e
 
 # file explorer
 super + e
-	nautilus
+	kitty -e ranger
 
 # turn on/off picom (use for games)
 super + shift + q
