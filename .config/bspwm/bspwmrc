@@ -28,6 +28,8 @@ bspc config borderless_monocle   true
 bspc config gapless_monocle      true
 bspc config focus_follows_pointer true
 #bspc config border_radius 		 6
+bspc config pointer_modifier	mod1
+bspc config swallow_first_click true
 
 #bspc rule -a Gimp desktop='^8' state=floating follow=on
 bspc rule -a MEGAsync state=floating
@@ -50,5 +52,5 @@ flameshot &
 # discord --start-minimized &
 # kdeconnect-indicator &
 $HOME/.config/bspwm/redshift.sh &
-#flock -n $HOME/.local/bin/lock $HOME/.local/bin/gamemodeloop
+flock -n $HOME/.local/bin/lock $HOME/.local/bin/gamemodeloop
 $HOME/.config/bspwm/autostart
