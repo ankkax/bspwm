@@ -34,8 +34,11 @@ bspc config swallow_first_click true
 #bspc rule -a Gimp desktop='^8' state=floating follow=on
 bspc rule -a MEGAsync state=floating
 bspc rule -a mpv state=floating
-#bspc rule -a discord desktop='^4'
-#bspc rule -a TelegramDesktop desktop='^4'
+bspc rule -a surf state=tiling
+bspc rule -a feh state=floating
+bspc rule -a Sxiv state=floating
+bspc rule -a discord desktop='^5'
+bspc rule -a TelegramDesktop desktop='^5'
 
 xsetroot -cursor_name left_ptr &
 #xautolock -detectsleep -time 10 -locker "/home/fhilipe/.config/polybar/scripts/lock.sh" -notify 30 -notifier "notify-send -u critical -t 10000 -- 'LOCKING screen in 30 seconds'" &
@@ -52,5 +55,4 @@ flameshot &
 # discord --start-minimized &
 # kdeconnect-indicator &
 $HOME/.config/bspwm/redshift.sh &
-flock -n $HOME/.local/bin/lock $HOME/.local/bin/gamemodeloop
 $HOME/.config/bspwm/autostart

@@ -1,6 +1,6 @@
 # bspwm
-Basically my current theme is from https://github.com/sorahed/bspwmthemes
-I just added my own modules and changed some shortcuts
+Basically my current theme is from [bspwm-theme](https://github.com/sorahed/bspwmthemes) <br />
+I just added my own modules and changed some shortcuts <br />
 alt + enter for terminal
 
 
@@ -28,6 +28,7 @@ Im using
 
 Optional depencies
 + [ytfzf](https://github.com/pystardust/ytfzf)
++ [sxiv](https://520liyan.xyz/explosion-mental/sxiv) you need excatly this build of sxiv to get all the features in desktop
 + [flameshot](https://github.com/flameshot-org/flameshot)
 + [mpv-mpris](https://github.com/hoyon/mpv-mpris)
 + [sxiv](https://github.com/muennich/sxiv)
@@ -38,17 +39,23 @@ I recommend using volnoti from AUR it is hard to build on other systems but it i
 + [Tock-clock](https://github.com/nwtnni/tock)
 + [setbg-from-lukesmith](https://github.com/LukeSmithxyz/voidrice/tree/master/.local/bin)
 + [sox](https://github.com/chirlu/sox) play sound in dunst notification
-Guide to use wallpaper with SXIV changer thanks for Luke Smith for awesome setbg script
-open image with sxiv, press ctrl + x then press w to setbg
+Guide to use wallpaper with SXIV changer thanks for Luke Smith for awesome setbg script <br />
+open image with sxiv, press ctrl + x then press w to setbg <br />
 
-FIREFOX Setup
-from here
+## Guides
+
+super + shift + s to open spotify search <br />
+just enter name of the song you want to hear and it will open closest <br />
+write sxiv in dmenu prompt and you get current album art and press then you can save it to anywhere in home folder <br />
+
+FIREFOX Setup <br />
+from here <br />
 https://github.com/vinceliuice/WhiteSur-gtk-theme
 
-Guide to setup fonts
-Copy fonts from my repository to $HOME/.fonts/
-and fc-cache --force to apply those fonts
+Guide to setup fonts <br />
+Copy fonts from my repository to $HOME/.fonts/ <br />
+and fc-cache --force to apply those fonts <br />
 
-Setting neofetch with image
-make alias in zshrc or bashrc
-alias neofetch="neofetch --kitty /path/to/your/image.jpg
+Setting neofetch with image <br />
+make alias in zshrc or bashrc <br />
+alias neofetch="neofetch --kitty /path/to/your/image.jpg <br />

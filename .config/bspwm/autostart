@@ -7,8 +7,9 @@ function run  {
                       fi
   }
 
-$HOME/.config/bspwm/utilities/setbg
-flock -n $HOME/.local/bin/lock $HOME/.local/bin/gamemodeloop &
+$HOME/.config/bspwm/utilities/setbg &
+# flock -n $HOME/.local/bin/lock $HOME/.local/bin/gamemodeloop &
 dunst &
 volnoti &
-picom -b --experimental-backends --dbus --config $HOME/.config/bspwm/picom.conf
+picom -b --experimental-backends --dbus --config $HOME/.config/bspwm/picom.conf &
+$HOME/.local/bin/gamemodeloop
