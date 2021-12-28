@@ -38,11 +38,15 @@ Optional depencies
 I recommend using volnoti from AUR it is hard to build on other systems but it is possible
 + [Tock-clock](https://github.com/nwtnni/tock)
 + [setbg-from-lukesmith](https://github.com/LukeSmithxyz/voidrice/tree/master/.local/bin)
-+ [sox](https://github.com/chirlu/sox) play sound in dunst notification
++ [sox](https://github.com/chirlu/sox) lay sound in dunst notification <br />
 Guide to use wallpaper with SXIV changer thanks for Luke Smith for awesome setbg script <br />
 open image with sxiv, press ctrl + x then press w to setbg <br />
 
 ## Guides
+
+to get sp script working you need to got `.config/bspwm/utilities/sp` <br />
+and add spotify client id and secret. <br />
++ [spotify-developer](https://beta.developer.spotify.com/documentation/general/guides/app-settings/)
 
 super + shift + s to open spotify search <br />
 just enter name of the song you want to hear and it will open closest <br />
